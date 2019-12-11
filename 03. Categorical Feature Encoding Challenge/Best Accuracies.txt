@@ -1,0 +1,1 @@
+Best will be by onehotencoding all. Not submitted. > 07.LightGBMSubmission (0.747)(5000 iter) > 08. LightGBMSubmission10000iter > 01.LogisticRegressionSubmission (0.60) > 02.RandomForestClassifier (0.59)
